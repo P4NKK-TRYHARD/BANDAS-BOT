@@ -1,0 +1,9 @@
+discord.js
+axios
+mongoose
+dotenv
+@discordjs/builders
+@discordjs/rest
+canvas fs
+discord-api-type
+discord-html-transcripts
