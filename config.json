@@ -1,0 +1,35 @@
+{
+
+    "token": "MTA1NjY2MzAzODU3NDQ2NTExNw.G7VWMo.H_JXMNiS5eH4ahM8DaZcHqlRC_YP6SjbF-_PKU",
+    "botId": "1056663038574465117",
+    "prefix": "!:",
+
+    "status": "reclutar",
+
+    "rolstaff": "ID DEL ROL DE STAFF",
+        
+    "canalRol": "1192208524000890991",
+    "includes": "Miembro",
+    "rolJefe": "1209988965579497482",
+    "colorMain": "#CD00FF",
+    
+    
+
+    "mensaje_transcript": "UN MENSAJE QUE SALDRÁ CUANDO SE HAGA UN TRANSCRIPT",
+
+    "roles": {
+        "rol1": "ID DEL ROL DEL WARN 1",
+        "rol2": "ID DEL ROL DEL WARN 2",
+        "rol3": "ID DEL ROL DEL WARN 3"
+    },
+
+    "canal_bans": "CANAL DONDE SE MANDARÁN LOS BANS",
+    "canal_warns": "CANAL DONDE SE MANDARÁN LOS WARNS",
+
+    "colorembeds": "#3498db",
+    "colorembedl": "#0CFF00",
+    "welcomeMessage": "¡Hey, rulaosrp! 👋",
+    "logChannel": "1180978351561773220",  
+    "welcomeDescription": "\n\n¡Hey {member}! 👋\nBienvenid@ a **RulaosRP**, donde podrás encontrar un bonito servidor de Semirol. 🌍"
+
+}
